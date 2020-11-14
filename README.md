@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>These are some of the technologies I am currently working with 🌱</p>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
