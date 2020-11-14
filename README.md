@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <p align="center">
-<a href="https://github.com/WGETDC">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WGETDC&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WGETDC&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/WgetDc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WgetDc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WgetDc&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
