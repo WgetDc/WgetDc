@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/WgetDc">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WgetDc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WgetDc&layout=compact&langs_count=8&theme=react"/>
+  <img heigth="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WgetDc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img heigth="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WgetDc&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
