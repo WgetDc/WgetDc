@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <p>These are some of the technologies I am currently working with 🌱</p>
 
-![]()&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=000000)&nbsp;
