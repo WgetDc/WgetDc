@@ -44,5 +44,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WgetDc)](https://github.com/WgetDc/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WgetDc)](https://github.com/anuraghazra/github-readme-stats)
+
 
