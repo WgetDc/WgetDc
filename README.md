@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos (WgetDc on the internet)</h1>
 <h3 align="center">A passionate teacher and Full Stack developer from LATAM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wgetdc&label=Profile%20views&color=0e75b6&style=flat" alt="wgetdc" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgetdc" alt="wgetdc" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wgetdc" target="blank"><img src="https://img.shields.io/twitter/follow/wgetdc?logo=twitter&style=for-the-badge" alt="https://twitter.com/wgetdc" /></a> </p>
 
@@ -40,3 +38,7 @@
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=wgetdc&show_icons=true&locale=en" alt="wgetdc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wgetdc&" alt="wgetdc" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wgetdc&label=Profile%20views&color=0e75b6&style=flat" alt="wgetdc" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgetdc" alt="wgetdc" /></a> </p>
