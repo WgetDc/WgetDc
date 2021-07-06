@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/wgetdc" target="blank"><img src="https://img.shields.io/twitter/follow/wgetdc?logo=twitter&style=for-the-badge" alt="https://twitter.com/wgetdc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wget2dc" target="blank"><img src="https://img.shields.io/twitter/follow/wgetdc?logo=twitter&style=for-the-badge" alt="https://twitter.com/wgetdc" /></a> </p>
 
 - 🔭 I’m currently working on [Trukilapp](https://trukilapp.cl/)
 
