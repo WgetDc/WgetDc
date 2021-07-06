@@ -35,9 +35,9 @@
 <p><img style="max-width: 140px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgetdc&show_icons=true&locale=en&layout=compact" alt="wgetdc" />
 </p>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=wgetdc&show_icons=true&locale=en" alt="wgetdc" /></p>
+<p>&nbsp; <img style="max-width: 140px" align="center" src="https://github-readme-stats.vercel.app/api?username=wgetdc&show_icons=true&locale=en" alt="wgetdc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wgetdc&" alt="wgetdc" /></p>
+<p><img style="min-width: 100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wgetdc&" alt="wgetdc" /></p>
 
 
 
